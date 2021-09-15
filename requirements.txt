@@ -1,0 +1,7 @@
+aws-cdk.core==1.121.0
+
+aws_cdk.aws-lambda==1.121.0
+aws_cdk.aws_lambda-nodejs==1.121.0
+aws-cdk.aws_apigatewayv2==1.121.0
+aws-cdk.aws_apigatewayv2_integrations==1.121.0
+aws_cdk.aws_apigatewayv2_authorizers==1.121.0
